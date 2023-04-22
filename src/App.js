@@ -1,13 +1,7 @@
-import './App.css';
+import Booklist from './tutorials/books-project-1/Booklist';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        Hello World, My first React App !GKC
-      </header>
-    </div>
-  );
+  return <Booklist />;
 }
 
 export default App;
