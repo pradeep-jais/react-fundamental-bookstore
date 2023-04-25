@@ -1,7 +1,7 @@
-import Booklist from './tutorials/books-project-1/Booklist';
+import BookStore from './bookstore app/BookStore';
 
 function App() {
-  return <Booklist />;
+  return <BookStore />;
 }
 
 export default App;
